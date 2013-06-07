@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'sinatra/export'
 require 'kss'
 
 get '/' do
